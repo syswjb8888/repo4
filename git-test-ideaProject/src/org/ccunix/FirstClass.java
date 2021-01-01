@@ -22,4 +22,11 @@ public class FirstClass {
         System.out.println("删除delete 1111111111");
         System.out.println("删除delete 1111111111");
     }
+    public void update(){
+        System.out.println("更新update 11111111111111");
+        System.out.println("更新update 11111111111111");
+        System.out.println("更新update 11111111111111");
+        System.out.println("更新update 11111111111111");
+        System.out.println("更新update 11111111111111");
+    }
 }
