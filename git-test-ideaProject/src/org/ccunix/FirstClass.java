@@ -15,4 +15,11 @@ public class FirstClass {
         System.out.println("show1111");
         System.out.println("show1111");
     }
+    public void delete(){
+        System.out.println("删除delete 1111111111");
+        System.out.println("删除delete 1111111111");
+        System.out.println("删除delete 1111111111");
+        System.out.println("删除delete 1111111111");
+        System.out.println("删除delete 1111111111");
+    }
 }
